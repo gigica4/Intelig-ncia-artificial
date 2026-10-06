@@ -30,11 +30,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                afirmacao: [
+                    "Mostrou facilidade em adotar novas ferramentas digitais na sua rotina de estudos.",
+                    "Evidenciou forte autonomia na busca por conhecimento de fontes diversas." 
+                ]
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                afirmacao: [ 
+                    "Valorizou a troca de experiências e o aprendizado colaborativo entre pares.", 
+                    "Demonstrou habilidades de comunicação e valorização do trabalho em equipe."
+                ]
             }
         ]
     },
