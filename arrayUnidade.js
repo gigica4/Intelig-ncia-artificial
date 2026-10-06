@@ -1,1 +1,7 @@
+var unidades= [“Segurança da Informação”, “Ciência de Dados”, “Ciência da Computação”];
 
+function unidadeEscolhida(numero){
+return unidades[numero];
+}
+
+console.log(unidadeEscolhida(1));
