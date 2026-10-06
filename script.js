@@ -49,11 +49,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:"afirmacao"
+                afirmacao: [ 
+                    "Revelou uma sensibilidade social ativa em relação aos impactos da automação.", 
+                    "Adotou uma postura crítica quanto à velocidade das transformações do mercado."
+                ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:"afirmacao"
+                afirmacao: [ 
+                    "Demonstrou foco na adaptabilidade e no desenvolvimento de competências do futuro.", 
+                    "Identificou a tecnologia como uma aliada para potencializar a capacidade humana."
+                ]
             }
             
         ]
