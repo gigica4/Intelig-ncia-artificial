@@ -69,11 +69,17 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:"afirmacao"
+                afirmacao: [ 
+                    "Preferiu expressar suas ideias de forma autoral, utilizando suas próprias habilidades de desenho.", 
+                    "Valorizou o processo de criação manual e o esforço individual para ilustrar seu pensamento."
+                ]
             },
             {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:"afirmacao"
+                afirmacao: [ 
+                    "Optou por explorar o potencial prático e criativo das ferramentas de inteligência artificial generativa.", 
+                    "Buscou otimizar o tempo e experimentar novas formas de expressão digital automatizada."
+                ]
             }
             
         ]
