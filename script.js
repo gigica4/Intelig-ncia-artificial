@@ -12,14 +12,14 @@ const perguntas = [
                 texto: "Isso é assustador!",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando.";
+                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
                 ]
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [ 
                     "Quis saber como usar IA no seu dia a dia.".
-                    "Pensou que essa nova tecnologia pode ajudar nas tarfeas do seu dia a dia";
+                    "Pensou que essa nova tecnologia pode ajudar nas tarfeas do seu dia a dia"
                 ]
             }           
             
@@ -32,14 +32,14 @@ const perguntas = [
                 texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
                 afirmacao: [
                     "Mostrou facilidade em adotar novas ferramentas digitais na sua rotina de estudos.",
-                    "Evidenciou forte autonomia na busca por conhecimento de fontes diversas."; 
+                    "Evidenciou forte autonomia na busca por conhecimento de fontes diversas." 
                 ]
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
                 afirmacao: [ 
                     "Valorizou a troca de experiências e o aprendizado colaborativo entre pares.", 
-                    "Demonstrou habilidades de comunicação e valorização do trabalho em equipe.";
+                    "Demonstrou habilidades de comunicação e valorização do trabalho em equipe."
                 ]
             }
         ]
@@ -51,14 +51,14 @@ const perguntas = [
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: [ 
                     "Revelou uma sensibilidade social ativa em relação aos impactos da automação.", 
-                    "Adotou uma postura crítica quanto à velocidade das transformações do mercado.";
+                    "Adotou uma postura crítica quanto à velocidade das transformações do mercado."
                 ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
                 afirmacao: [ 
                     "Demonstrou foco na adaptabilidade e no desenvolvimento de competências do futuro.", 
-                    "Identificou a tecnologia como uma aliada para potencializar a capacidade humana.";
+                    "Identificou a tecnologia como uma aliada para potencializar a capacidade humana."
                 ]
             }
             
@@ -71,14 +71,14 @@ const perguntas = [
                 texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
                 afirmacao: [ 
                     "Preferiu expressar suas ideias de forma autoral, utilizando suas próprias habilidades de desenho.", 
-                    "Valorizou o processo de criação manual e o esforço individual para ilustrar seu pensamento.";
+                    "Valorizou o processo de criação manual e o esforço individual para ilustrar seu pensamento."
                 ]
             },
             {
                 texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
                 afirmacao: [ 
                     "Optou por explorar o potencial prático e criativo das ferramentas de inteligência artificial generativa.", 
-                    "Buscou otimizar o tempo e experimentar novas formas de expressão digital automatizada.";
+                    "Buscou otimizar o tempo e experimentar novas formas de expressão digital automatizada."
                 ]
             }
             
